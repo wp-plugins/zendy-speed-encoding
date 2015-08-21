@@ -4,7 +4,7 @@ Plugin Name: Zendy Speed: Encoding
 Plugin URI: https://kauai.zendy.net/wordpress/plugins/zendy-speed/
 Description: Specify a "Vary: Accept-Encoding" Header; improve your website performance and your performace grade on YSlow, Google PageSpeed, and Pingdom.
 Author: Zendy Web Studio
-Version: 2.0
+Version: 2.0.1
 Author URI: https://kauai.zendy.net
 */
 

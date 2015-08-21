@@ -2,8 +2,8 @@
 Contributors: ZendyLabs
 Tags: encoding, compression, vary, accept-encoding, caching, pagespeed, performance, fast
 Requires at least: 4.0
-Tested up to: 4.2.4
-Stable tag: 2.0
+Tested up to: 4.3
+Stable tag: 2.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,6 +29,9 @@ We recommend [https://developers.google.com/speed/pagespeed/insights/](Google's 
 == Screenshots ==
 
 == Changelog ==
+
+= 2.0.1 =
+* Meta: Tested for WordPress 4.3
 
 = 2.0 =
 * Initial public release
